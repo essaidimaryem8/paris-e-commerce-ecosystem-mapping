@@ -134,4 +134,4 @@ The `/maps` folder contains three interactive HTML maps. Download and open in an
 ## Contact
 
 **Maryem Essaidi**  
-[LinkedIn](https://www.linkedin.com/in/maryem-essaidi-274009254/) | [Email](maryemessaidi8@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maryem-essaidi-274009254/) | Email: maryemessaidi8@gmail.com
