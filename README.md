@@ -68,7 +68,7 @@ Commercial Score = (Terrace_normalized + SEMAEST_normalized) × 50
 
 ```
 ├── notebook/
-│   └── paris_ecommerce_analysis.ipynb
+│   └── paris-e-commerce-ecosystem-mapping.ipynb
 │
 ├── data/
 │   ├── terrasses_autorisations.csv
@@ -76,12 +76,12 @@ Commercial Score = (Terrace_normalized + SEMAEST_normalized) × 50
 │   └── arrondissements.geojson
 │
 ├── report/
-│   └── Paris_ECommerce_Ecosystem_Report.pdf
+│   └── paris-e-commerce-ecosystem-mapping.pdf
 │
 ├── visualizations/
-│   ├── Top_5_Arrondissements_Commercial_DNA_Comparison.png
-│   ├── Top_10_Arrondissements_by_City_Retail_Investment.png
-│   └── Top_10_Highest_Foot_Traffic.png
+│   ├── Top 5 Arrondissements Commercial DNA Comparison.png
+│   ├── Top 10 Arrondissements by City Retail Investment (SEMAEST Shops).png
+│   └── Top 10 Highest Foot Traffic (Terraces per km²).png
 │
 ├── maps/
 │   ├── Final_Commercial_Score_Map.html
