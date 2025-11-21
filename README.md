@@ -97,7 +97,7 @@ Commercial Score = (Terrace_normalized + SEMAEST_normalized) × 50
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/paris-ecommerce-expansion-test.git
+git clone https://github.com/essaidimaryem8/paris-e-commerce-ecosystem-mapping.git
 ```
 
 2. Install dependencies
